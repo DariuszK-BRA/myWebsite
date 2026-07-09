@@ -1,1 +1,1 @@
-To jest mój pierwszy projekt w GIT :D
+Testowanie GIT i GitHub.
